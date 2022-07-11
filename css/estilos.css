@@ -1,0 +1,16 @@
+.titulo{
+    background-color: lightgray;
+}
+
+.division_principal{
+    width: 40%;
+    display: inline;
+}
+
+.sub_titulo{
+    display: inline;
+}
+
+table, th, td {
+    border:1px solid black;
+}
